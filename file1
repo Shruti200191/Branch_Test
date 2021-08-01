@@ -1,2 +1,6 @@
 Hello Main Branch
+<<<<<<< HEAD
 Hello Main 
+=======
+Adding the feature branch
+>>>>>>> feature
